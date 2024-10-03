@@ -1,0 +1,118 @@
+# Linux (Kubuntu)
+*~
+.nfs*
+*.kate-swp
+*.kate-swp.*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource forks
+._*
+
+# Thumbnails
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.FBCIndex
+.FBCSemaphoreFile
+.FBCLockFolder
+
+# JetBrains IDE (CLion, IntelliJ, PyCharm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+*.clw
+*.cbl
+*.log
+run/
+cmake-build-debug/
+cmake-build-release/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build.ninja
+rules.ninja
+compile_commands.json
+CTestTestfile.cmake
+TargetDirectories.txt
+
+# Ninja
+.ninja_deps
+.ninja_log
+
+# Tests and Debugging logs
+Testing/
+Temporary/
+LastTest.log
+
+# Cargo (Rust)
+target/
+Cargo.lock
+*.rs.bk
+
+# C/C++
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+# Generated files
+*.d
+*.bin
+*.obj
+*.tmp
+*.log
+*.aux
+*.bbl
+*.blg
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Compiled object files
+*.obj
+*.elf
+*.map
+*.pdb
+*.ilk
+*.dSYM/
+
+# Archives
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
+
+# Documentation
+*.pdf
+*.md
+
+# Assembly
+*.o
+*.s
+*.d
+
+# General binary and temp files
+*.pyc
+*.class
+*.jar
+*.log
+
+# Ignore build artifacts
+/build/
+
+# Fuzzing specific files
+oom-*
+

@@ -1,3 +1,5 @@
+# tests/CMakeLists.txt
+
 add_executable(escape_test escape_test.c)
 target_link_libraries(escape_test escape)
 target_compile_options(escape_test PRIVATE -fsanitize=address)

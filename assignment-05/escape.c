@@ -29,6 +29,6 @@ char* escape_chars(const char* input)
         input++;
     }
 
-    *current = '\0'; // Null-terminator
+    *current = '\0';
     return output;
 }

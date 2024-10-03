@@ -31,7 +31,7 @@ int main() {
     assert(strcmp(result4, "10 &gt; 5") == 0);
     free(result4);
 
-    // Test 5: Kombinasjon av alle spesialtegnene
+    // Test 5: Try ALL the special chars!
     const char* input5 = "5 < 10 & 10 > 5";
     char* result5 = escape_chars(input5);
     assert(strcmp(result5, "5 &lt; 10 &amp; 10 &gt; 5") == 0);

@@ -5,7 +5,7 @@
 
 int main(void)
 {
-    const char* input = "Cricket > & Smigg <";
+    const char* input = "Cricket > & < Smigg are crocs.";
     char* escaped = escape_chars(input);
     // printf("Original: %s\n", input);
     printf("%s\n", escaped);

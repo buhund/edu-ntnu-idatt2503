@@ -1,0 +1,15 @@
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/obj/Debug/net8.0/server_0602.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/obj/Debug/net8.0/server_0602.AssemblyInfoInputs.cache
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/obj/Debug/net8.0/server_0602.AssemblyInfo.cs
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/obj/Debug/net8.0/server_0602.csproj.CoreCompileInputs.cache
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/obj/Debug/net8.0/server_0602.sourcelink.json
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/bin/Debug/net8.0/server_0602
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/bin/Debug/net8.0/server_0602.deps.json
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/bin/Debug/net8.0/server_0602.runtimeconfig.json
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/bin/Debug/net8.0/server_0602.dll
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/bin/Debug/net8.0/server_0602.pdb
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/obj/Debug/net8.0/server_0602.dll
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/obj/Debug/net8.0/refint/server_0602.dll
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/obj/Debug/net8.0/server_0602.pdb
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/obj/Debug/net8.0/server_0602.genruntimeconfig.cache
+/Users/mars/Tresorit/Utdanning/BIDATA-Y03-S05-H2024/IDATT2503 - Sikkerhet og kryptografi/edu-ntnu-idatt2503/exercise-06/ex-0602/server_0602/server_0602/obj/Debug/net8.0/ref/server_0602.dll

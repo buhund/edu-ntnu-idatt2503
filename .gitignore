@@ -97,7 +97,7 @@ Cargo.lock
 
 # Documentation
 *.pdf
-*.md
+
 
 # Assembly
 *.o
